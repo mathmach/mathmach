@@ -34,10 +34,12 @@
 <img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Node.JS" title="Node.JS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Java" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="24">&nbsp;&nbsp;&nbsp;
 <img alt="Dart" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="24">&nbsp;&nbsp;&nbsp;
-<img alt="Flutter" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="24">
+<img alt="Flutter" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="24">&nbsp;&nbsp;&nbsp;
 <img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="24">
 <br><br>
 
