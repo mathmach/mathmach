@@ -5,13 +5,13 @@
 <div align="center">
  <h1>
   <a  target="_blank" href="https://www.linkedin.com/in/mateusmgd/">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/master/.github/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/matheusmgd/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/instagram.svg" />
+    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/master/.github/instagram.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:matheusmgduarte@outlook.com">
-    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg" />
+    <img alt="Email" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/master/.github/gmail.svg" />
   </a>
  </h1>
 </div>
@@ -38,6 +38,7 @@
 <img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="24">&nbsp;&nbsp;&nbsp;
 <img alt="Dart" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="24">&nbsp;&nbsp;&nbsp;
 <img alt="Flutter" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="24">
+<img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="24">
 <br><br>
 
 ---
