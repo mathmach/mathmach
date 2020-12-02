@@ -4,7 +4,7 @@
 
 <div align="center">
  <h1>
-  <a  target="_blank" href="https://www.linkedin.com/in/mateusmgd/">
+  <a  target="_blank" href="https://www.linkedin.com/in/matheusmgd/">
     <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/mathmach/mathmach/master/.github/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/matheusmgd/">
