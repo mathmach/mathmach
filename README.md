@@ -16,7 +16,7 @@
  </h1>
 </div>
 
-🎂 25 yeas old  
+🎂 26 yeas old  
 👨🏻‍🎓 Bachelor in Information Systems for [FAI](https://www.fai-mg.br/)  
 🏠 I live on Santa Rita do Sapucaí, Brazil and I have my own business [Code 4 Source](https://www.code4source.com/)
 
